@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Browser CORS Dodge, google-chrome --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
